@@ -1,0 +1,21 @@
+
+/* Team */
+
+Name: Jonathan Appelqvist
+
+GitHub: Saaloci
+
+Location: Kalmar, Sweden.
+
+/* Thanks */
+
+Johan Leitet
+Mats Lock
+
+/*Site*/
+
+Last updated: YYYY/MM/DD
+
+Software: Docker, Visual Studio Code, GitBash 
+
+Standards: HTML5, CSS3
