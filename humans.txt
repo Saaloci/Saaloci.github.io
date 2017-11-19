@@ -5,16 +5,19 @@ Name: Jonathan Appelqvist
 
 GitHub: Saaloci
 
-Location: Kalmar, Sweden.
+Location: Nybro, Sweden.
 
 /* Thanks */
 
 Johan Leitet
 Mats Lock
+Jekyll organization: https://github.com/jekyll
+Docker: https://www.docker.com/
+Disqus: https://disqus.com/
 
-/*Site*/
+/* Site */
 
-Last updated: YYYY/MM/DD
+Last updated: 1997/09/29
 
 Software: Docker, Visual Studio Code, GitBash 
 

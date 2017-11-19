@@ -19,8 +19,8 @@ You can find the source code for Jekyll at GitHub:
 
 Mitt namn är Jonathan Appelqvist. Jag är tjugo år och bor i staden Nybro
 med min mamma, pappa och lillebror. I mina låg - och mellanstadie år
-spelade jag mycket fotboll. När interesset för fotbollen tog slut blev
-det all mera datorspelande. Interesset för datorer stärktes mer med åren.
-Spelen som ligger varmt om hjärtat i dagens läge är Leauge of Legends och Star Wars Battlefront 2. 
+spelade jag mycket fotboll. När intresset för fotbollen tog slut blev
+det allt mera datorspelande. Intresset för datorer stärktes mer med åren.
+Spelen som ligger mig varmt om hjärtat i dagens läge är League of Legends och Star Wars Battlefront 2. 
 
 Jag sökte in till teknikprogrammet på Åkrahällskolan i Nybro med inriktning på media och informationsteknik. Jag lärde mig grunderna att programmera med språken java och C++ samt att koda i HTML och CSS. Efter mina studier på gymnasiet så praktiserade jag på Landstingets IT-avdelning i fyra månader. Efter det var jag ledig resten av året innan jag kom in på Linnéuniversitetet i Kalmar, där jag studerar som webbprogrammerare.
