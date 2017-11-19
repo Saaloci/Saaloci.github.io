@@ -17,7 +17,7 @@ You can find the source code for Jekyll at GitHub:
 
 [jekyll-organization]: https://github.com/jekyll -->
 
-Mitt namn är Jonathan Appelqvist. Jag är tjugo år och bor i staden Nybro
+Mitt namn är Jonathan Appelqvist. Jag är tjugo år och bor i Nybro
 med min mamma, pappa och lillebror. I mina låg - och mellanstadie år
 spelade jag mycket fotboll. När intresset för fotbollen tog slut blev
 det allt mera datorspelande. Intresset för datorer stärktes mer med åren.
