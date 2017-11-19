@@ -6,4 +6,6 @@ categories: jekyll update
 ---
 
 
-Hej! :)
+1. användning av variabler
+2. göra färg ljusare och mörkare
+3. behöver inte dela upp element och classer
