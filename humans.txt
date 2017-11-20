@@ -17,7 +17,7 @@ Disqus: https://disqus.com/
 
 /* Site */
 
-Last updated: 1997/09/29
+Last updated: 2017/11/20
 
 Software: Docker, Visual Studio Code, GitBash 
 
